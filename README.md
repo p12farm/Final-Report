@@ -10,6 +10,10 @@
 Η ολοκλήρωση των πρωαπετούμενων έγινε με την βοήθια του [codecademy](https://www.codecademy.com) και την παρακολόθυηση υλοποίησης παρόμιων έργων. Το πρώτο παραδοταίω ήταν αρκετά κατανοητό δίνοτας μια ιδέα από της δυνατότητες που έχουν οι αντίστοιχες πλατφόρμες.
 #### link εκτελέσιμο:
 https://p12farm.github.io/D3js-US-educational-attainment/
+#### link του κλαδιού του κώδικα που αντιστοιχεί στο παραδοτέο:
+https://github.com/p12farm/D3js-US-educational-attainment/tree/2012042
+#### link στο αποθετήριο του κώδικα:
+https://github.com/p12farm/D3js-US-educational-attainment
 
 ### Μέθοδος και τεχνικές ανάπτυξης
 ### Συμπεράσματα
